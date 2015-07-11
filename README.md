@@ -11,7 +11,11 @@ Please post all general discussion to the [CodeProject forum](http://www.codepro
 
 The [Issue tracker](../../issues) can be used to cite issues in pages - but again, it's still in progress...
 
-**Repo Updates**
-2015-jul-10 (TG)
+#### Repo Updates
+
+*2015-jul-11*
+- Added Fields page, still a lot of work to be done.
+
+*2015-jul-10*
 - Added FieldIntroduction page
 - Started using screenshots
