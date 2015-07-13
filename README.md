@@ -13,6 +13,9 @@ The [Issue tracker](../../issues) can be used to cite issues in pages - but agai
 
 #### Repo Updates
 
+*2015-jul-12*
+- Significant updates to Fields page, still a lot of work to be done.
+
 *2015-jul-11*
 - Added Fields page, still a lot of work to be done.
 
