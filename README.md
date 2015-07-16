@@ -2,6 +2,8 @@
  
 This and all ToDoList_ repos are for the [ToDoList](http://www.codeproject.com/Articles/5371/ToDoList) task management / project management FOSS.
 
+This Wiki repo contains all available documentation for using the software. Please check here before filing issues or posting questions.
+
 All pages are currently a Work In Progress, subject to rapid change and even to being moved.
 That means any pages "missing" simply haven't been written yet and anything already written is going to get edited soon. Please have patience.
 
@@ -16,7 +18,7 @@ To find anything from files, issues, or documentation, or to report issues, plea
 
 *2015-jul-14*
 - Significant updates to Preferences pages.
-- 
+
 *2015-jul-13*
 - Integrating info from other repos.
  
