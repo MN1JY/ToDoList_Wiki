@@ -12,6 +12,10 @@ To find anything from files, issues, or documentation, or to report issues, plea
 
 #### Repo Updates
 
+*2015-aug-23*
+- Created Suggestion Box page and published [news](http://www.codeproject.com/Messages/5114209/New-Wiki-Suggestion-Box.aspx)
+  - Wiki is getting daily attention but the README isn't getting an update of all changes. Looking to create some balance.
+
 *2015-jul-20*
 - Fix a few remaining GettingHelp links to Getting-Help.
 - Please note that even if this Repo Updates log isn't updated daily, that the wiki is in active and aggressive development. So updates to this page will be reduced though wiki updates continue. Get notifications [here](https://github.com/abstractspoon/ToDoList_Wiki/wiki.atom).
